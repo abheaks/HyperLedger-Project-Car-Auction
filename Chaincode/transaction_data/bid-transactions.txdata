@@ -1,0 +1,37 @@
+[
+    {
+        "transactionName": "BidExists",
+        "transactionLabel": "A test BidExists transaction",
+        "arguments": [
+            "Bid001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createBid",
+        "transactionLabel": "A test createBid transaction",
+        "arguments": [
+            "Bid002",
+            "001",
+            "6.5"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readBid",
+        "transactionLabel": "A test readBid transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+
+    {
+        "transactionName": "deleteBid",
+        "transactionLabel": "A test deleteBid transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]

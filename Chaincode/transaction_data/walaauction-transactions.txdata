@@ -1,0 +1,47 @@
+[
+    {
+        "transactionName": "walaauctionExists",
+        "transactionLabel": "A test walaauctionExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createWalaauction",
+        "transactionLabel": "A test createWalaauction transaction",
+        "arguments": [
+            "001",
+            "Ford",
+            "EcoSports",
+            "2017",
+            "6"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readWalaauction",
+        "transactionLabel": "A test readWalaauction transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateWalaauction",
+        "transactionLabel": "A test updateWalaauction transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteWalaauction",
+        "transactionLabel": "A test deleteWalaauction transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
